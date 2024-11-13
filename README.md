@@ -17,7 +17,8 @@
     
 ## 4. Fourth Slide
    
-    ![Screenshot (142)](https://github.com/user-attachments/assets/c0276b4c-a643-4026-a3f2-55906480692c)
+![Screenshot (142)](https://github.com/user-attachments/assets/0870e4f7-f317-46b2-90c5-e78e7ceae333)
+
 
 ## 5. Fifth Slide
    ![Screenshot (143)](https://github.com/user-attachments/assets/85342479-9872-43cf-8e1a-822d30e36f5a)
